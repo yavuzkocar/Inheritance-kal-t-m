@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\Inheritance kalıtım.exe
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\Inheritance kalıtım.deps.json
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\Inheritance kalıtım.runtimeconfig.json
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\Inheritance kalıtım.runtimeconfig.dev.json
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\Inheritance kalıtım.dll
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\ref\Inheritance kalıtım.dll
+D:\yazılım\pratikler\Inheritance kalıtım\bin\Debug\net5.0\Inheritance kalıtım.pdb
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.AssemblyInfo.cs
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.dll
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\ref\Inheritance kalıtım.dll
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.pdb
+D:\yazılım\pratikler\Inheritance kalıtım\obj\Debug\net5.0\Inheritance kalıtım.genruntimeconfig.cache
